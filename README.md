@@ -1,2 +1,2 @@
 # captive_portal
-Captive portal stup for ESP8266/ESP32
+Captive portal stub for ESP8266/ESP32
